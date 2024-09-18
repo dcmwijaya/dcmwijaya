@@ -343,6 +343,7 @@ Some of the Programming Languages, Development Tools, and other things I've used
   <a align="center" href="https://indobot.co.id/" target="_blank"><img width="100" height="50" alt="Indobot Community" src="Assets/Community/logo_indobot.png"></a>
   <a align="center" href="https://progate.com/" target="_blank"><img width="100" height="50" alt="Progate Community" src="Assets/Community/logo_progate.png"></a>
   <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.png"></a>
+  <a align="center" href="https://kelasiot.id/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_kelas_iot.png"></a>
 </div><br><br><br>
 
 <div id="githubstats" align="center">
