@@ -9,14 +9,14 @@
 
 <br>
 
-<img width="1920" height="150" src="https://github.com/user-attachments/assets/a82ff888-57a3-4db8-8d9d-fc86a251240e" alt="Banner IoT Engineer by Devan C.M.W">
+<img width="1920" height="150" src="Assets/Banner/IoT-Devan.jpg" alt="Banner IoT Engineer by Devan C.M.W">
 
 <br><br>
 
 <h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
-<img src="https://github.com/devancakra/devancakra/assets/54527592/02dcee98-9001-4933-b6d2-c012ca395832" height="18px"> Hi everyone... &nbsp;&nbsp; I'm <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
+<img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp;&nbsp; I'm <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
 
 </div>
 
