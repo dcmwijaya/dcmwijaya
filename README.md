@@ -9,7 +9,7 @@
 
 <br>
 
-<img width="1920" height="150" src="Assets/Banner/IoT-Devan.jpg" alt="Banner IoT Engineer by Devan C.M.W">
+<img width="1920" height="200" src="Assets/Banner/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
 
 <br><br>
 
