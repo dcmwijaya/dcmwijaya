@@ -347,7 +347,7 @@ Some of the Programming Languages, Development Tools, and other things I've used
 </div><br><br><br>
 
 <div id="githubstats" align="center">
-  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&hide_border=true&layout=compact&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dcmwijaya&show_icons=true&hide_border=true&layout=compact&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
       
-  <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devancakra&show_icons=true&hide=scss&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight">
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmwijaya&show_icons=true&hide=scss&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight">
 </div>
