@@ -16,7 +16,7 @@
 <h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
-<img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; My name is <strong>``` Devan Cakra Mudra Wijaya ```</strong>, you can call me <strong>``` Devan / Cakra ```</strong>.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
+<img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; You can call me <strong>``` Devan / Cakra ```</strong>, welcome to my Github.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
 
 </div>
 
