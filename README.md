@@ -1,10 +1,10 @@
 <div align="left">
-    <a align="center" href="https://github.com/dcm.wijaya" target="_blank"><img src="https://vbr.nathanchung.dev/badge?page_id=devancakra&lcolor=93062e&color=555555&style=flat-square&logo=Snapchat&hit=true"></a>
+    <a align="center" href="https://github.com/dcmwijaya" target="_blank"><img src="https://vbr.nathanchung.dev/badge?page_id=devancakra&lcolor=93062e&color=555555&style=flat-square&logo=Snapchat&hit=true"></a>
     <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/G-%2DScholar-lightgrey?logo=google-scholar&style=flat-square&logoColor=white&color=004ad0"></a>
     <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/G-%2DMail-light?logo=gmail&style=flat-square&logoColor=white&color=a10c0c"></a>
-    <a align="center" href="https://www.linkedin.com/in/dcmwijaya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linked%20in-light?logo=linkedin&style=flat-square&logoColor=white&color=3056c7"></a>
-    <a align="center" href="https://www.youtube.com/@dcm.wijaya" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-light?logo=youtube&style=flat-square&logoColor=white&color=c00000"></a>
-    <a align="center" href="https://medium.com/@dcm.wijaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-light?logo=medium&style=flat-square&logoColor=white&color=2d343b"></a>
+    <a align="center" href="https://www.linkedin.com/in/dcmwijaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linked%20in-light?logo=linkedin&style=flat-square&logoColor=white&color=3056c7"></a>
+    <a align="center" href="https://www.youtube.com/@dcmwijaya" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-light?logo=youtube&style=flat-square&logoColor=white&color=c00000"></a>
+    <a align="center" href="https://medium.com/@dcmwijaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-light?logo=medium&style=flat-square&logoColor=white&color=2d343b"></a>
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 <h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
-<img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp;&nbsp; I'm <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
+<img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; My name is <strong>``` Devan Cakra Mudra Wijaya ```</strong>, you can call me <strong>``` Devan / Cakra ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
 
 </div>
 
