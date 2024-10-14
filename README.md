@@ -3,8 +3,10 @@
     <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/G-%2DScholar-lightgrey?logo=google-scholar&style=flat-square&logoColor=white&color=004ad0"></a>
     <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/G-%2DMail-light?logo=gmail&style=flat-square&logoColor=white&color=a10c0c"></a>
     <a align="center" href="https://www.linkedin.com/in/dcmwijaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linked%20in-light?logo=linkedin&style=flat-square&logoColor=white&color=3056c7"></a>
+    <a align="center" href="https://www.medium.com/@dcmwijaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-light?logo=medium&style=flat-square&logoColor=white&color=2d343b"></a>
     <a align="center" href="https://www.youtube.com/@dcmwijaya" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-light?logo=youtube&style=flat-square&logoColor=white&color=c00000"></a>
-    <a align="center" href="https://medium.com/@dcmwijaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-light?logo=medium&style=flat-square&logoColor=white&color=2d343b"></a>
+    <a align="center" href="https://www.instagram.com/dcmwijaya" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-light?logo=instagram&style=flat-square&logoColor=white&color=bf0069"></a>
+    <a align="center" href="https://www.tiktok.com/@dcmwijaya" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-light?logo=tiktok&style=flat-square&logoColor=white&color=2d343b"></a>
 </div>
 
 <br>
