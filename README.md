@@ -1,5 +1,5 @@
 <div align="center">
-    <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img src="https://vbr.nathanchung.dev/badge?page_id=devancakra&lcolor=93062e&color=555555&style=flat-square&logo=Snapchat&hit=true"></a>
+    <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img src="https://vbr.nathanchung.dev/badge?page_id=cakraawijaya&lcolor=93062e&color=555555&style=flat-square&logo=Snapchat&hit=true"></a>
     <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/G-%2DScholar-lightgrey?logo=google-scholar&style=flat-square&logoColor=white&color=004ad0"></a>
     <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/G-%2DMail-light?logo=gmail&style=flat-square&logoColor=white&color=a10c0c"></a><br>
     <a align="center" href="https://www.linkedin.com/in/cakraawijaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-light?logo=linkedin&style=flat-square&logoColor=white&color=3056c7"></a>
@@ -349,7 +349,7 @@ Some of the Programming Languages, Development Tools, and other things I've used
 </div><br><br><br>
 
 <div id="githubstats" align="center">
-  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dcmwijaya&show_icons=true&hide_border=true&layout=compact&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cakraawijaya&show_icons=true&hide_border=true&layout=compact&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
       
-  <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmwijaya&show_icons=true&hide=scss&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight">
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakraawijaya&show_icons=true&hide=scss&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight">
 </div>
