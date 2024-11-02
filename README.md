@@ -137,6 +137,12 @@ Some of the Programming Languages, Development Tools, and other things I've used
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/tailwind.png" width="48" height="48" alt="tailwind">
+            </a><br>
+            <p>Tailwind</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/fontawesome.png" width="48" height="48" alt="fontawesome">
             </a><br>
             <p>Font Awesome</p>
@@ -171,14 +177,14 @@ Some of the Programming Languages, Development Tools, and other things I've used
             </a><br>
             <p>React JS</p>
         </td>
+    </tr>
+    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/vuejs.png" width="48" height="48" alt="vuejs">
             </a><br>
             <p>Vue JS</p>
-        </td>
-    </tr>
-    <tr>        
+        </td>  
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/docker.png" width="48" height="48" alt="docker">
