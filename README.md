@@ -87,15 +87,15 @@ Some of the Programming Languages, Development Tools, and other things I've used
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/xampp.png" width="48" height="48" alt="xampp">
-            </a><br>
-            <p>Xampp</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/git.png" width="48" height="48" alt="git">
             </a><br>
             <p>Git</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/xampp.png" width="48" height="48" alt="xampp">
+            </a><br>
+            <p>Xampp</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
@@ -105,15 +105,15 @@ Some of the Programming Languages, Development Tools, and other things I've used
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/mongodb.png" width="48" height="48" alt="mongodb">
-            </a><br>
-            <p>MongoDB</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/laragon.png" width="48" height="48" alt="laragon">
             </a><br>
             <p>Laragon</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/mongodb.png" width="48" height="48" alt="mongodb">
+            </a><br>
+            <p>MongoDB</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
@@ -137,6 +137,12 @@ Some of the Programming Languages, Development Tools, and other things I've used
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/fontawesome.png" width="48" height="48" alt="fontawesome">
+            </a><br>
+            <p>Font Awesome</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/codeigniter.png" width="48" height="48" alt="codeigniter">
             </a><br>
             <p>CodeIgniter</p>
@@ -155,7 +161,13 @@ Some of the Programming Languages, Development Tools, and other things I've used
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/react.png" width="48" height="48" alt="react">
+                <img src="Assets/Platform-Tools-Support/expressjs.png" width="48" height="48" alt="expressjs">
+            </a><br>
+            <p>Express JS</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/reactjs.png" width="48" height="48" alt="reactjs">
             </a><br>
             <p>React JS</p>
         </td>
@@ -165,6 +177,8 @@ Some of the Programming Languages, Development Tools, and other things I've used
             </a><br>
             <p>Vue JS</p>
         </td>
+    </tr>
+    <tr>        
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/docker.png" width="48" height="48" alt="docker">
@@ -177,19 +191,37 @@ Some of the Programming Languages, Development Tools, and other things I've used
             </a><br>
             <p>Firebase</p>
         </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/arduino.png" width="48" height="48" alt="arduino">
+            </a><br>
+            <p>Arduino</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/atmel.png" width="48" height="48" alt="atmel">
+            </a><br>
+            <p>Atmel</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/espressif.png" width="48" height="48" alt="espressif">
+            </a><br>
+            <p>Espressif</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/stm.png" width="48" height="48" alt="stm">
+            </a><br>
+            <p>STMicroelectronics</p>
+        </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/arduinoide.png" width="48" height="48" alt="arduinoide">
+                <img src="Assets/Platform-Tools-Support/raspberry.png" width="48" height="48" alt="raspberry">
             </a><br>
-            <p>Arduino IDE</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/thonnyide.png" width="48" height="48" alt="thonnyide">
-            </a><br>
-            <p>Thonny IDE</p>
+            <p>Raspberry</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
@@ -223,18 +255,18 @@ Some of the Programming Languages, Development Tools, and other things I've used
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/websocket.png" width="48" height="48" alt="websocket">
+            </a><br>
+            <p>WebSocket</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/blynk.png" width="48" height="48" alt="blynk">
             </a><br>
             <p>Blynk IoT</p>
         </td>
     </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/websocket.png" width="48" height="48" alt="websocket">
-            </a><br>
-            <p>WebSocket</p>
-        </td>
+    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/shiftrio.png" width="48" height="48" alt="shiftrio">
@@ -264,7 +296,7 @@ Some of the Programming Languages, Development Tools, and other things I've used
                 <img src="Assets/Platform-Tools-Support/mosquitto.png" width="48" height="48" alt="mosquitto">
             </a><br>
             <p>Mosquitto</p>
-        </td>
+        </td>   
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/iotnet.png" width="48" height="48" alt="io-t.net">
@@ -277,14 +309,14 @@ Some of the Programming Languages, Development Tools, and other things I've used
             </a><br>
             <p>Antares</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/nodered.png" width="48" height="48" alt="nodered">
             </a><br>
             <p>Node Red</p>
         </td>  
+    </tr>
+    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/emqx.png" width="48" height="48" alt="emqx">
@@ -305,6 +337,12 @@ Some of the Programming Languages, Development Tools, and other things I've used
         </td>  
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/mqttx.png" width="48" height="48" alt="mqttx">
+            </a><br>
+            <p>MQTTX</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/eagle.png" width="48" height="48" alt="eagle">
             </a><br>
             <p>Autodesk Eagle</p>
@@ -314,7 +352,7 @@ Some of the Programming Languages, Development Tools, and other things I've used
                 <img src="Assets/Platform-Tools-Support/gas.png" width="48" height="48" alt="gas">
             </a><br>
             <p>Google Apps Script</p>
-        </td>
+        </td>   
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/matlab.png" width="48" height="48" alt="matlab">
