@@ -193,6 +193,12 @@ Some of the Programming Languages, Development Tools, and other things I've used
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/botman.png" width="48" height="48" alt="botman">
+            </a><br>
+            <p>Botman</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/arduino.png" width="48" height="48" alt="arduino">
             </a><br>
             <p>Arduino</p>
@@ -213,7 +219,7 @@ Some of the Programming Languages, Development Tools, and other things I've used
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/stm.png" width="48" height="48" alt="stm">
             </a><br>
-            <p>STMicroelectronics</p>
+            <p>STM</p>
         </td>
     </tr>
     <tr>
