@@ -400,7 +400,7 @@
 </div><br><br><br>
 
 <div id="githubstats" align="center">
-  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cakraawijaya&show_icons=true&theme=tokyonight&hide_border=true&layout=compact">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cakraawijaya&show_icons=true&theme=tokyonight&layout=compact">&nbsp;&nbsp;&nbsp;&nbsp;
       
   <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakraawijaya&show_icons=true&hide=scss&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight">
 </div>
