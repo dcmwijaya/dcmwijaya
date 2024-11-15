@@ -399,8 +399,8 @@
   <a align="center" href="https://kelasiot.id/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_kelas_iot.png"></a>
 </div><br><br><br>
 
-<div id="githubstats" align="center">
-  <img align="center" alt="Devan Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cakraawijaya&show_icons=true&hide_border=true&mode=weekly&layout=compact&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
+<div class="container" id="githubstats" align="center">
+  <img align="center" alt="Devan Github Streak Stats" src="https://streak-stats.demolab.com/?user=cakraawijaya&show_icons=true&hide_border=true&mode=weekly&layout=compact&theme=algolia">&nbsp;&nbsp;&nbsp;&nbsp;
       
-  <img align="center" alt="Devan Github Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakraawijaya&show_icons=true&hide=scss&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight">
+  <img align="center" alt="Devan Github Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakraawijaya&show_icons=true&hide=scss&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=algolia">
 </div>
