@@ -93,27 +93,27 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/xampp.png" width="48" height="48" alt="xampp">
-            </a><br>
-            <p>Xampp</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/mysql.png" width="48" height="48" alt="mysql">
             </a><br>
             <p>MySQL</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/laragon.png" width="48" height="48" alt="laragon">
+                <img src="Assets/Platform-Tools-Support/mariadb.png" width="48" height="48" alt="mariadb">
             </a><br>
-            <p>Laragon</p>
+            <p>MariaDB</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/mongodb.png" width="48" height="48" alt="mongodb">
             </a><br>
             <p>MongoDB</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/firebase.png" width="48" height="48" alt="firebase">
+            </a><br>
+            <p>Firebase</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
@@ -129,6 +129,36 @@
         </td>
     </tr>
     <tr>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/xampp.png" width="48" height="48" alt="xampp">
+            </a><br>
+            <p>Xampp</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/laragon.png" width="48" height="48" alt="laragon">
+            </a><br>
+            <p>Laragon</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/apache.png" width="48" height="48" alt="apache">
+            </a><br>
+            <p>Apache</p>
+        </td> 
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/docker.png" width="48" height="48" alt="docker">
+            </a><br>
+            <p>Docker</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/mqttx.png" width="48" height="48" alt="mqttx">
+            </a><br>
+            <p>MQTTX</p>
+        </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/bootstrap.png" width="48" height="48" alt="bootstrap">
@@ -147,6 +177,8 @@
             </a><br>
             <p>Font Awesome</p>
         </td>
+    </tr>
+    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/codeigniter.png" width="48" height="48" alt="codeigniter">
@@ -177,26 +209,12 @@
             </a><br>
             <p>React JS</p>
         </td>
-    </tr>
-    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/vuejs.png" width="48" height="48" alt="vuejs">
             </a><br>
             <p>Vue JS</p>
-        </td>  
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/docker.png" width="48" height="48" alt="docker">
-            </a><br>
-            <p>Docker</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/firebase.png" width="48" height="48" alt="firebase">
-            </a><br>
-            <p>Firebase</p>
-        </td>
+        </td> 
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/botman.png" width="48" height="48" alt="botman">
@@ -205,42 +223,12 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/arduino.png" width="48" height="48" alt="arduino">
-            </a><br>
-            <p>Arduino</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/atmel.png" width="48" height="48" alt="atmel">
-            </a><br>
-            <p>Atmel</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/espressif.png" width="48" height="48" alt="espressif">
-            </a><br>
-            <p>Espressif</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/stm.png" width="48" height="48" alt="stm">
-            </a><br>
-            <p>STM</p>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/raspberry.png" width="48" height="48" alt="raspberry">
-            </a><br>
-            <p>Raspberry</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/platformio.png" width="48" height="48" alt="platformio">
             </a><br>
             <p>PlatformIO</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/kodular.png" width="48" height="48" alt="kodular">
@@ -277,8 +265,6 @@
             </a><br>
             <p>Blynk IoT</p>
         </td>
-    </tr>
-    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/shiftrio.png" width="48" height="48" alt="shiftrio">
@@ -291,6 +277,8 @@
             </a><br>
             <p>ThingsBoard</p>
         </td>
+    </tr>
+    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/ubidots.png" width="48" height="48" alt="ubidots">
@@ -327,8 +315,6 @@
             </a><br>
             <p>Node Red</p>
         </td>  
-    </tr>
-    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/emqx.png" width="48" height="48" alt="emqx">
@@ -341,6 +327,8 @@
             </a><br>
             <p>HiveMQ</p>
         </td>  
+    </tr>
+    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/thingerio.png" width="48" height="48" alt="thingerio">
@@ -349,9 +337,33 @@
         </td>  
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/mqttx.png" width="48" height="48" alt="mqttx">
+                <img src="Assets/Platform-Tools-Support/arduino.png" width="48" height="48" alt="arduino">
             </a><br>
-            <p>MQTTX</p>
+            <p>Arduino</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/atmel.png" width="48" height="48" alt="atmel">
+            </a><br>
+            <p>Atmel</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/espressif.png" width="48" height="48" alt="espressif">
+            </a><br>
+            <p>Espressif</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/stm.png" width="48" height="48" alt="stm">
+            </a><br>
+            <p>STM</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/raspberry.png" width="48" height="48" alt="raspberry">
+            </a><br>
+            <p>Raspberry</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
@@ -361,16 +373,24 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/gas.png" width="48" height="48" alt="gas">
+                <img src="Assets/Platform-Tools-Support/easyeda.png" width="48" height="48" alt="easyeda">
             </a><br>
-            <p>Google Apps Script</p>
-        </td>   
+            <p>EasyEDA</p>
+        </td>
+    </tr>
+    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/matlab.png" width="48" height="48" alt="matlab">
             </a><br>
             <p>Matlab</p>
         </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/gas.png" width="48" height="48" alt="gas">
+            </a><br>
+            <p>Google Apps Script</p>
+        </td>  
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/photoshop.png" width="48" height="48" alt="photoshop">
