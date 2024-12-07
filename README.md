@@ -249,6 +249,12 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/fonnte.png" width="48" height="48" alt="fonnte">
+            </a><br>
+            <p>Fonnte</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/telegram.png" width="48" height="48" alt="telegram">
             </a><br>
             <p>Telegram</p>
@@ -271,14 +277,14 @@
             </a><br>
             <p>Shiftr.io</p>
         </td>
+    </tr>
+    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/thingsboard.png" width="48" height="48" alt="thingsboard">
             </a><br>
             <p>ThingsBoard</p>
         </td>
-    </tr>
-    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/ubidots.png" width="48" height="48" alt="ubidots">
@@ -320,15 +326,15 @@
                 <img src="Assets/Platform-Tools-Support/emqx.png" width="48" height="48" alt="emqx">
             </a><br>
             <p>EMQX</p>
-        </td>
+        </td>  
+    </tr>
+    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/hivemq.png" width="48" height="48" alt="hivemq">
             </a><br>
             <p>HiveMQ</p>
-        </td>  
-    </tr>
-    <tr>     
+        </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/thingerio.png" width="48" height="48" alt="thingerio">
@@ -371,14 +377,14 @@
             </a><br>
             <p>Autodesk Eagle</p>
         </td>
+    </tr>
+    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/easyeda.png" width="48" height="48" alt="easyeda">
             </a><br>
             <p>EasyEDA</p>
         </td>
-    </tr>
-    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/matlab.png" width="48" height="48" alt="matlab">
